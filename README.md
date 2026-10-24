@@ -6,11 +6,15 @@ A collection of notes, guides, and lessons learned on software engineering: codi
 
 | Folder | What's inside |
 | --- | --- |
-| [`coding/`](coding) | Language tips, patterns, algorithms, code-quality practices |
-| [`architecture/`](architecture) | System design, trade-offs, architecture decision records |
-| [`devops/`](devops) | CI/CD, containers, cloud, observability |
-| [`tools/`](tools) | Editors, CLI tools, workflows, productivity ([Remote Desktop macOS → Ubuntu 26.04](tools/macos-windows-app-rdp-to-ubuntu-26.04.md)) |
-| [`templates/`](templates) | Templates for new notes and ADRs |
+| [`coding/`](docs/coding) | Language tips, patterns, algorithms, code-quality practices |
+| [`architecture/`](docs/architecture) | System design, trade-offs, architecture decision records |
+| [`devops/`](docs/devops) | CI/CD, containers, cloud, observability |
+| [`tools/`](docs/tools) | Editors, CLI tools, workflows, productivity ([Remote Desktop macOS → Ubuntu 26.04](docs/tools/macos-windows-app-rdp-to-ubuntu-26.04.md)) |
+| [`templates/`](docs/templates) | Templates for new notes and ADRs |
+
+## Website
+
+Read it at https://uthuyn.github.io/tech-stuffs/
 
 ## How to use
 
