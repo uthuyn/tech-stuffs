@@ -1,3 +1,7 @@
+---
+description: Notes, guides and lessons learned on coding, software architecture, DevOps and developer tooling.
+---
+
 # TechStuffs
 
 Notes, guides and lessons learned on software engineering: coding, architecture, DevOps and tooling.

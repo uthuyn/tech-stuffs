@@ -6,6 +6,7 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
+  font: false
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -23,6 +24,12 @@ theme:
     - search.highlight
     - content.code.copy
     - content.action.edit
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
 
 exclude_docs: |
   templates/

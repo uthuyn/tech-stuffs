@@ -1,3 +1,7 @@
+---
+description: Developer tools, CLI utilities and workflows, with practical setup guides.
+---
+
 # Tools
 
 Editors, CLI tools, workflows and productivity.

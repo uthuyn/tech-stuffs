@@ -1,3 +1,7 @@
+---
+description: DevOps notes: CI/CD, containers, cloud and observability.
+---
+
 # DevOps
 
 CI/CD, containers, cloud and observability.

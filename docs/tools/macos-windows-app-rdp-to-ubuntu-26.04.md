@@ -1,3 +1,7 @@
+---
+description: Fix Remote Desktop errors (black screen, credentials not working, GNOME service not running) when connecting from macOS 13 with the Windows App to Ubuntu 26.04.
+---
+
 # Remote Desktop from macOS 13 (Windows App) to Ubuntu 26.04
 
 > Getting Ubuntu 26.04 to accept remote desktop connections from the Windows App on macOS 13, and the errors I hit on the way.
